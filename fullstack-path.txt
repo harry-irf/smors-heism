@@ -15,3 +15,9 @@ UNLOCK SKILL "FULLSTACK WEB DEVLOPER"
 	3.3. Membuat Landing Page Website dengan Bootstrap 4
 	3.4. Membuat Portfolio Website dengan Tailwind CSS
 	3.5. Belajar Vue.JS
+
+4. BackEnd Dasar :
+	4.1. Belajar Pemrograman PHP
+	4.2. Pengenalan Database Menggunakan MySQL
+	4.3. Penggunaan Database MySQL Pada Pemrograman PHP
+	4.4. Konsep Dasar Pemrograman Berorientasi Objek Di PHP
