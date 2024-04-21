@@ -1,2 +1,2 @@
-# smors-heism
+# smorshem
 webdev fullstack path 
