@@ -1,2 +1,2 @@
 # smors-heism
-smors repo
+webdev fullstack path 
