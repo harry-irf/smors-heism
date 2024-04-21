@@ -1,0 +1,17 @@
+UNLOCK SKILL "FULLSTACK WEB DEVLOPER"
+====================================
+1. intro :
+  1.1. Text Editor
+  1.2. Belajar Git 
+
+2. FrontEnd Dasar :
+	2.1. Belajar Dasar HTML
+	2.2. Belajar Dasar CSS
+	2.3. Belajar Bootstrap CSS Framework
+
+3. FrontEnd Lanjutan :
+	3.1. Belajar JavaScript Dasar
+	3.2. Belajar JQuary Dasar
+	3.3. Membuat Landing Page Website dengan Bootstrap 4
+	3.4. Membuat Portfolio Website dengan Tailwind CSS
+	3.5. Belajar Vue.JS
