@@ -29,3 +29,4 @@ UNLOCK SKILL "FULLSTACK WEB DEVLOPER"
 	5.4. Membangun Restful API Dengan Laravel 6
 	5.5. Sistem Otentikasi API Berbasis 0Auth Dengan Laravel Passport
 	5.6. Membuat Role Management Menggunakan Laravel
+	5.7. Flutter
