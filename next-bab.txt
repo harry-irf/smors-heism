@@ -2,3 +2,4 @@
 	6.1. Membangun Website Toko Online Berbasis CodeIgniter
 	6.2. Belahar Vue3 dan Firebase Studi Kasus Blog
 	6.3. Implementasi Payment Gateway Indonesia Menggunakan Laravel
+	6.4. Membuat Toko Online Dengan Laravel LiveWire & Payment Gateway
