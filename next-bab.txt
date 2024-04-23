@@ -1,3 +1,4 @@
 6. Studi Kasus FullStack :
 	6.1. Membangun Website Toko Online Berbasis CodeIgniter
 	6.2. Belahar Vue3 dan Firebase Studi Kasus Blog
+	6.3. Implementasi Payment Gateway Indonesia Menggunakan Laravel
